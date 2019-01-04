@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-tutorial-notepad",
+  "version": "1.0.0",
+  "description": "Node.js tutorial notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewJBateman/nodejs-tutorial-notepad.git"
+  },
+  "author": "Max Schwarzuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewJBateman/nodejs-tutorial-notepad/issues"
+  },
+  "homepage": "https://github.com/AndrewJBateman/nodejs-tutorial-notepad#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
