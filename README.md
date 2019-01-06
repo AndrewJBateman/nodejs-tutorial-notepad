@@ -2,7 +2,7 @@
 
 Code to learn to learn Node.js. This is part of a Udemy Node.js course. 
 
-This project uses [node.js](https://nodejs.org) version 10.15.0 LTS and [Express](http://expressjs.com/) version 4.16.4.
+This project uses [Node.js](https://nodejs.org) version 10.15.0 LTS and [Express](http://expressjs.com/) version 4.16.4.
 
 ## Notes
 
