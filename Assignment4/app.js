@@ -18,7 +18,7 @@ app.use(homeRoute);
 app.use(usersRoute);
 app.use(notFoundRoute);
 
-const port = 3005;
+const port = 5000;
 app.listen(port, () => {
 	console.log('Listening on port ' +port);
 });

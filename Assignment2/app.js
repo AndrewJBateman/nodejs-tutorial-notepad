@@ -14,7 +14,10 @@ app.use('/users', (req, res, next) => {
 
 app.use('/', (req, res, next) => {
 	console.log('Middleware / common route');
-		res.send('<p>Home page</p>');
+		res.send('<p>Welcome to the Home page</p>');
 });
 
-app.listen(5000);
+const port = 5000;
+app.listen(port, () => {
+	console.log('Listening on port ' +port);
+});
