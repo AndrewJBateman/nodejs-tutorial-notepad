@@ -30,9 +30,9 @@
 
 ## Technologies
 
-* [Node.js v10.15.0 LTS](https://nodejs.org)
+* [Node.js v12.3.1](https://nodejs.org)
 
-* [Express v4.16.4](https://www.npmjs.com/package/express)
+* [Express v4.17.1](https://www.npmjs.com/package/express)
 
 * [Embedded Javascript Templating ejs](https://ejs.co/) creates HTML markup with plain javascript.
 
@@ -50,13 +50,13 @@ tba
 
 * tba
 
-## To-do list
-
-1. nothing to do.
-
 ## App Status
 
 * working:
+
+## To-do list
+
+* nothing to do.
 
 ## Inspiration
 
