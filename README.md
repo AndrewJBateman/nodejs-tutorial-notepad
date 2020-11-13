@@ -1,10 +1,10 @@
-# Node.js Tutorial Notepad
+# :zap: Node.js Tutorial Notepad
 
 * Code to learn to learn Node.js. This is part of a [Udemy NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/nodejs-the-complete-guide/).
 
 **Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -15,53 +15,45 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## :books: General info
 
 * Assignment 1: organise files. Assignment very simple. not recorded here.
-
 * Assignment 2: Uses Express middleware to send text using res.send to home page ('/') and (/users) page. [link to Express documentation on app.use](http://expressjs.com/es/api.html#app.use)
-
 * Assignment 4: link to article [What are the best JavaScript templating engines?](https://www.slant.co/topics/51/~best-javascript-templating-engines#26)
 
-## Screenshots
+## :camera: Screenshots
 
 ![screenprint](./img/Assignment2.png)
 ![screenprint](./img/Assignment3.png)
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Node.js v12.3.1](https://nodejs.org)
-
-* [Express v4.17.1](https://www.npmjs.com/package/express)
-
+* [Node.js v12](https://nodejs.org)
+* [Express v4](https://www.npmjs.com/package/express)
 * [Embedded Javascript Templating ejs](https://ejs.co/) creates HTML markup with plain javascript.
 
-## Setup
+## :floppy_disk: Setup
 
 * Assignment 2: type `nodemon app.js` then open browser at `localhost:5000`.
-
 * Assignment 3: type `nodemon app.js` then open browser at `localhost:3005`.
 
-## Code Examples
+## :computer: Code Examples
 
 tba
 
-## Features
+## :cool: Features
 
 * tba
 
-## App Status
+## :clipboard: App Status & To-do list
 
-* working:
+* Status: working
+* To-Do: nothing
 
-## To-do list
-
-* nothing to do.
-
-## Inspiration
+## :clap: Inspiration
 
 * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/nodejs-the-complete-guide/)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) * you are welcome to [send me a message](https://andrewbateman.org/contact)
