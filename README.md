@@ -47,8 +47,8 @@ tba
 
 ## :clipboard: App Status & To-do list
 
-* Status: working
-* To-Do: nothing
+* Status: Incomplete
+* To-Do: complete course from section 30 Testing to section 36
 
 ## :clap: Inspiration
 
