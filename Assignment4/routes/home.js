@@ -1,21 +1,21 @@
-const express = require('express');
+const express = require("express");
 
 const users = [];
 
 const router = express.Router();
 
-router.get('/', (req, res, next) => {
-	res.render('home', {
-		pageTitle: 'Home',
-		path: '/',
+router.get("/", (req, res, next) => {
+	res.render("home", {
+		pageTitle: "Home",
+		path: "/",
 	});
 });
 
-router.post('/add-user', (req, res, next) => {
+router.post("/add-user", (req, res, next) => {
 	users.push({
-		name: req.body.user.toUpperCase()
+		name: req.body.user.toUpperCase(),
 	});
-	res.redirect('/');
+	res.redirect("/");
 });
 
 exports.routes = router;
