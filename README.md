@@ -1,8 +1,13 @@
 # :zap: Node.js Tutorial Notepad
 
-* Code to learn to learn Node.js. This is part of a [Udemy NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/nodejs-the-complete-guide/).
+* Code to learn to learn Node.js.
+* Part of a [Udemy NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/nodejs-the-complete-guide/).
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/nodejs-tutorial-notepad?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/nodejs-tutorial-notepad?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/nodejs-tutorial-notepad?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/nodejs-tutorial-notepad?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -64,18 +69,22 @@
 
 ## :cool: Features
 
-* t
+* tba
 
 ## :clipboard: App Status & To-do list
 
 * Status: Incomplete
-* To-Do: comment code
+* To-Do: complete & comment code
 
 ## :clap: Inspiration
 
 * [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/nodejs-the-complete-guide/)
 * [What are the best JavaScript templating engines?](https://www.slant.co/topics/51/~best-javascript-templating-engines#26)
 
+## :file_folder: License
+
+* N/A.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
